@@ -5,10 +5,10 @@ pygments: true
 paginate: 8
 permalink: /:year-:month-:day/:title.html
 
-title: BeiYuu.com
-url: http://beiyuu.com
+title: 思行文道
+url: http://mars99.space
 feed: /atom.xml
-author_info: <a href="http://beiyuu.com/">BeiYuu</a>
+author_info: <a href="http://mars99.space/">思行文道</a>
 
 myblog:
   gavatar: d7006c16d23bb05fda2198ed88584abf
