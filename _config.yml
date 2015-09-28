@@ -6,9 +6,9 @@ paginate: 8
 permalink: /:year-:month-:day/:title.html
 
 title: 思行文道
-url: http://mars99.space
+url: http://marswoo.github.io
 feed: /atom.xml
-author_info: <a href="http://mars99.space/">思行文道</a>
+author_info: <a href="http://marswoo.github.io/">思行文道</a>
 
 myblog:
   gavatar: d7006c16d23bb05fda2198ed88584abf
@@ -55,7 +55,7 @@ prose:
       - name: "published"
         field:
           element: "hidden"
-          value: "true"
+          value: "false"
 
       - name: "category"
         field:
