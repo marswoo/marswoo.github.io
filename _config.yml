@@ -27,7 +27,7 @@ myblog:
 
 prose:
   rooturl: "_posts"
-  siteurl: "http://marswoo.github.io/"
+  # siteurl: "http://marswoo.github.io/"
   media: "images"
   metadata:
     _posts/blog:
