@@ -51,7 +51,7 @@ Git是版本管理的未来，他的优点我不再赘述，相关资料很多�
 下载安装客户端之后，各个系统的配置就类似了，我们使用windows作为例子，Linux和Mac与此类似。
 
 在Windows下，打开Git Bash，其他系统下面则打开终端（Terminal）：
-![Git Bash](/images/githubpages/bootcamp_1_win_gitbash.jpg)
+![Git Bash](../../images/githubpages/bootcamp_1_win_gitbash.jpg)
 
 ###1、检查SSH keys的设置
 首先我们需要检查你电脑上现有的ssh key：
@@ -82,7 +82,7 @@ Git是版本管理的未来，他的优点我不再赘述，相关资料很多�
     Enter same passphrase again:<再次输入加密串>
 
 最后看到这样的界面，就成功设置ssh key了：
-![ssh key success](/images/githubpages/ssh-key-set.png)
+![ssh key success](../../images/githubpages/ssh-key-set.png)
 
 ###4、添加SSH Key到GitHub：
 在本机设置SSH Key之后，需要添加到GitHub上，以完成SSH链接的设置。
