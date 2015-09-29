@@ -45,7 +45,7 @@ defaults:
 auto: true
 server: true
 permalink: none
-baseurl: "site_name"
+baseurl: ""
 
 prose:
   rooturl: "_posts"
