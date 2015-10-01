@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "Mars"
-description: "Hi, 我是Marswoo，这里是我所有的文章"  
+title: "This is Marswoo "
+description: "这里是我所有的文章 <br/> #也许就在哪天，你在自己的坚持下成为了一个巨人#"  
 header-img: "images/semantic.jpg"  
 ---
-
 
 {% for post in site.posts %}
 {% if post.filtauthor == "marswoo" %}
